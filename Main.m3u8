@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="Youtube"
+https://r15---sn-quxapm-3c2s.googlevideo.com/videoplayback?expire=1633882665&ei=yb1iYd6aNMfi7QTt-IOIDA&ip=185.42.130.65&id=o-ALAzglTkS7EEAZoV7HRPDwa6SezdAyZRpco0ltnN6Q45&itag=137&aitags=133%2C134%2C135%2C136%2C137%2C160%2C242%2C243%2C244%2C247%2C248%2C278&source=youtube&requiressl=yes&mh=ED&mm=31%2C29&mn=sn-quxapm-3c2s%2Csn-3c27sn7e&ms=au%2Crdu&mv=m&mvi=15&pcm2cms=yes&pl=22&initcwndbps=1183750&vprv=1&mime=video%2Fmp4&ns=9REGmW_kqRt9bR9q1H-jagUG&gir=yes&clen=404584718&dur=1167.480&lmt=1633767165303737&mt=1633860780&fvip=15&keepalive=yes&fexp=24001373%2C24007246&c=WEB&txp=5516222&n=iW3mSrd0pQf-tXBTapK&sparams=expire%2Cei%2Cip%2Cid%2Caitags%2Csource%2Crequiressl%2Cvprv%2Cmime%2Cns%2Cgir%2Cclen%2Cdur%2Clmt&sig=AOq0QJ8wRgIhAIjtlDaN51P2vktH90P6o8p5WU_sBz3G9CVJqtLKCz1rAiEAqyw3YiIonCT2WQuZBxQsDRzBuaRiiOIbgREv2ZgXypM%3D&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpcm2cms%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRAIgCaSJBpB9obgM6YVTbdr68d72NNAIZH1UYMm0tsGpISUCID8c_cLkk9J25JU4cBjkUqPNcK_JD0E_7MQzAmWeLRvd
+#EXTINF:-1 tvg-name="skripin"
+https://open-cdn.lanet.tv/live/1983.m3u8
